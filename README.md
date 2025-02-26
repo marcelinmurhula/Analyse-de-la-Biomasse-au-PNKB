@@ -1,5 +1,3 @@
-# Dendrometric-Analysis-and-Simulation
-
 # Forest Biomass Analysis
 
 This repository contains a Kaggle Notebook that analyzes tree height-diameter allometry and estimates forest biomass and carbon stock using a Gompertz model and allometric equations.
